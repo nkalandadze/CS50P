@@ -1,0 +1,10 @@
+# required packages and libraries
+
+# Project file
+random
+
+# Test file
+pytest
+unittest-mock
+
+
